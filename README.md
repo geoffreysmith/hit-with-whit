@@ -7,3 +7,5 @@ Looking for a cool refreshing 6-pack of 14 oz Pepsi products from your local Pri
 3. Introducing the hottest new thing in baseball: Whit-ametrics! Stats on the chances Whit will get 2 or more runs given: the pitchers, the current, historical Whit perofmrance at the ballfield, and more!
 
 GitHub's #1 Project for Whit-ametrics and Whit Merrifield related statistics.
+
+python3 -m venv env
